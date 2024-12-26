@@ -211,12 +211,12 @@ header ul>li>.nav:hover::before {
 
 @media (max-width: 768px) {
 
-  header .container h1,
+  header .container h2,
   header .container ul {
     margin: auto;
   }
 
-  header .container h1 a {
+  header .container h2 a {
     height: 50px;
   }
 
